@@ -1,0 +1,31 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "ecbbc627-ea83-40ea-8099-193fce937923++9100" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9DF1EBF607777257DF900FA46EDAAFEB2CEF98A8" : 0,
+    "ecbbc627-ea83-40ea-8099-193fce937923++9100" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "10E7D48D-9886-45C9-BE25-5BDDE3AF9B03",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9DF1EBF607777257DF900FA46EDAAFEB2CEF98A8" : "",
+    "ecbbc627-ea83-40ea-8099-193fce937923++9100" : "..\/Documents\/UUKingdom"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SMS_SDKDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SMS_SDKDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/Lee_Jay\/hehe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9DF1EBF607777257DF900FA46EDAAFEB2CEF98A8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.1.121\/ios-svn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ecbbc627-ea83-40ea-8099-193fce937923++9100"
+    }
+  ]
+}

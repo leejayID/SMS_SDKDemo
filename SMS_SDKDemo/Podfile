@@ -1,0 +1,5 @@
+platform :ios, '7.0'
+
+pod 'MOBFoundation_IDFA'
+pod 'SMSSDK'
+pod 'Masonry'

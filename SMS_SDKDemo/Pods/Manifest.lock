@@ -1,0 +1,16 @@
+PODS:
+  - Masonry (0.6.4)
+  - MOBFoundation_IDFA (1.5.1)
+  - SMSSDK (2.0.4)
+
+DEPENDENCIES:
+  - Masonry
+  - MOBFoundation_IDFA
+  - SMSSDK
+
+SPEC CHECKSUMS:
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MOBFoundation_IDFA: f5d3d1f89166f60c6985e34b7d90e6fb5d58fb61
+  SMSSDK: 642b6a8c55fd382be44487cd5e0b0710681895f9
+
+COCOAPODS: 0.39.0
